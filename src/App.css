@@ -1,7 +1,30 @@
 * {
   box-sizing: border-box;
   padding: 0;
-  margin: 0;
-  outline: 2px solid limegreen !important;
+  margin: 1rem;
+  font-family: 'Lora', serif;
+  font-size: 1.125em;
+  text-align: center;
+  border-radius: .5rem;
+
+}
+  
+
+body {
 }
 
+
+main {
+  
+}
+
+#quote-box {}
+
+#text {}
+
+#author {font-style: italic;}
+
+
+#new-quote, #tweet-quote {
+  padding: .5rem 1rem;
+}
