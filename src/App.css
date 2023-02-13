@@ -11,14 +11,12 @@
   
 
 body {
+  background-color: darkblue;
 }
 
-
-main {
-  
+#quote-box {
+  background-color: black;
 }
-
-#quote-box {}
 
 #text {}
 
